@@ -21,7 +21,7 @@
 
 - Thanks the [Cloud Study Jam 2021 (Taiwan/Hong Kong)](https://events.withgoogle.com/cloud-study-jam-2021-twhk/) event for offering 30-days free Qwiklabs subscription.
 
-## Challenge Labs
+## Challenge Labs!
 
 | Level | Skill Badges Quest | Code | Note | Video |
 | :--: | :-- | :--: | :--: | :--: |
